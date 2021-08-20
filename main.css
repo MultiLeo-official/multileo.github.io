@@ -2384,15 +2384,20 @@ form button {
       left: 18%;
     }
 
-    .contact .right form .fields{
-        flex-direction: column;
+    .contact .title{
+      right: 16%;
     }
-    .contact .right form .name,
-    .contact .right form .email{
-        margin: 0;
+
+    .contact .contact-form-container{
+      /*width: 40%;*/
+      right: 35%;
     }
-    .right form .error-box{
-       width: 150px;
+    .contact .address{
+      left: 5%;
+    }
+
+    .contact .email{
+      right: 2%;
     }
     .scroll-up-btn{
         right: 15px;
