@@ -2395,7 +2395,9 @@ form button {
     .contact .address{
       left: 5%;
     }
-
+    .contact .phone{
+      right: 75%;
+    }
     .contact .email{
       right: 2%;
     }
