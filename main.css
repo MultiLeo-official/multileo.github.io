@@ -1,3 +1,17 @@
+/*<!-- Designed by - Ashutosh Kumar
+     Website name - MultiLeo. 
+     school code - Octans
+
+    contact me :
+       youtube   -   https://youtube.com/channel/UCi8qZoUNt6h_-VmrLtzr3Dg
+       instagram -   https://www.instagram.com/multileo.official/
+       discord   -   https://discord.gg/quuK4yDh
+       codepen   -   https://codepen.io/Multileo-Ash
+       github    -   https://github.com/MultiLeo-official
+       facebook  -   https://www.facebook.com/MultiLeo.official
+
+-->*
+
 /*  import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
@@ -133,6 +147,7 @@ section .title::after{
     font-size: 23px;
     cursor: pointer;
     display: none;
+    right: 5%;
 }
 .scroll-up-btn{
     position: fixed;
@@ -2410,3 +2425,17 @@ form button {
         line-height: 38px;
     }
 }
+
+/*<!-- Designed by - Ashutosh Kumar
+     Website name - MultiLeo. 
+     school code - Octans
+
+    contact me :
+       youtube   -   https://youtube.com/channel/UCi8qZoUNt6h_-VmrLtzr3Dg
+       instagram -   https://www.instagram.com/multileo.official/
+       discord   -   https://discord.gg/quuK4yDh
+       codepen   -   https://codepen.io/Multileo-Ash
+       github    -   https://github.com/MultiLeo-official
+       facebook  -   https://www.facebook.com/MultiLeo.official
+
+-->*/

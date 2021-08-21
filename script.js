@@ -1,3 +1,18 @@
+// <!-- Designed by - Ashutosh Kumar
+//      Website name - MultiLeo. 
+//      school code - Octans
+
+//     contact me :
+//        youtube   -   https://youtube.com/channel/UCi8qZoUNt6h_-VmrLtzr3Dg
+//        instagram -   https://www.instagram.com/multileo.official/
+//        discord   -   https://discord.gg/quuK4yDh
+//        codepen   -   https://codepen.io/Multileo-Ash
+//        github    -   https://github.com/MultiLeo-official
+//        facebook  -   https://www.facebook.com/MultiLeo.official
+
+// -->
+
+
 $(document).ready(function(){
     $(window).scroll(function(){
         // sticky navbar on scroll script
@@ -35,39 +50,24 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
+        strings: ["YouTuber", "Developer", "Photographer", "Logo Designer", "SEO Expert", "Freelancer", "photo editer" ,"video editer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
-    var typed = new Typed(".typing-2", {
-        strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
-        typeSpeed: 100,
-        backSpeed: 60,
-        loop: true
-    });
+}); 
+      
+// <!-- Designed by - Ashutosh Kumar
+//      Website name - MultiLeo. 
+//      school code - Octans
 
-    // owl carousel script
-    $('.carousel').owlCarousel({
-        margin: 20,
-        loop: true,
-        autoplay: true,
-        autoplayTimeOut: 2000,
-        autoplayHoverPause: true,
-        responsive: {
-            0:{
-                items: 1,
-                nav: false
-            },
-            600:{
-                items: 2,
-                nav: false
-            },
-            1000:{
-                items: 3,
-                nav: false
-            }
-        }
-    });
-});
+//     contact me :
+//        youtube   -   https://youtube.com/channel/UCi8qZoUNt6h_-VmrLtzr3Dg
+//        instagram -   https://www.instagram.com/multileo.official/
+//        discord   -   https://discord.gg/quuK4yDh
+//        codepen   -   https://codepen.io/Multileo-Ash
+//        github    -   https://github.com/MultiLeo-official
+//        facebook  -   https://www.facebook.com/MultiLeo.official
+
+// --> 
